@@ -1,0 +1,6 @@
+{
+  "name": "성남시 중원도서관 타깃 맞춤형 플랫폼",
+  "description": "비독자를 위한 산책 모드와 애독자를 위한 탐험 모드로 맞춤형 독서 경험을 제공하는 성남시 중원도서관 특화 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
